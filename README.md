@@ -1,0 +1,2 @@
+# HFUT_ideology_course_app_scraper
+思政课app爬虫
